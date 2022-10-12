@@ -41,7 +41,7 @@ int main() {
     // "you did not get it right".
     if (userGuess == generatedNum) {
         std::cout << "\n";
-        std::cout << "You got it right! Well done :)";
+        std::cout << "You got it right! Well done :)\n";
     } else {
         std::cout << "\n";
         std::cout << "You did not get it right :(\n";
